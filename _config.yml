@@ -15,7 +15,7 @@ title:            '云印南天'
 tagline:          '云印文档'
 description:      '云印南天官网文档中心'
 url:              'http://www.yunyin.org'
-editurl:          'https://github.com/nkumstc/print/blob/gh-pages/'
+editurl:          'https://github.com/YunYinORG/yunyinorg.github.io/blob/master/'
 
 # Navigation
 navigation:
@@ -34,14 +34,7 @@ navigation:
 author:         'New Future'
 name:         '云印南天'
 
-#Social Media links
-# linkedin:       'https://ae.linkedin.com/in/olakara/'
-# twitter:        'https://twitter.com/olakara'
-# facebook:       'https://www.facebook.com/olakara'
-# gplus:          'https://plus.google.com/100425464897246255887/'
 
-# Google Analytics
-# gahandler: 'UA-52149651-1'
 
 #if footer-links-visible is 'true' the svg-icons will be shown top on the copy right.
 #else the svg icons will not exist
@@ -54,17 +47,12 @@ footer-links:
   renren: 602117408
   facebook:
   flickr:
-  github: nkumstc/print
+  github: YunYinORG
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  google:
-  twitter:
-  stackoverflow: #users/4388898/peter-zhu # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
-# Disqus
-# disqushandler: 'testingblogo'
+
 
 # Blog Configurations
 paginate: 10 # Posts per page on the blog index
@@ -72,4 +60,4 @@ paginate_path: '/pages/page:num'
 destination: ./_site
 
 # Custom vars
-version:          0.9
+version:          0.95
